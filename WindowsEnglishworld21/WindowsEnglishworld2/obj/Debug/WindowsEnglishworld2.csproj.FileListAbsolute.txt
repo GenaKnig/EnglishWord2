@@ -1,0 +1,14 @@
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\bin\Debug\DatabaseEnglish.mdf
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\bin\Debug\DatabaseEnglish_log.ldf
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\bin\Debug\WindowsEnglishworld2.exe.config
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\bin\Debug\WindowsEnglishworld2.exe
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\bin\Debug\WindowsEnglishworld2.pdb
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.csprojAssemblyReference.cache
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.Form1.resources
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.Properties.Resources.resources
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.csproj.GenerateResource.cache
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.csproj.CoreCompileInputs.cache
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.exe
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.pdb
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.Form2.resources
+E:\Potfolio\WindowsEnglishworld2\WindowsEnglishworld2\obj\Debug\WindowsEnglishworld2.Form3.resources
